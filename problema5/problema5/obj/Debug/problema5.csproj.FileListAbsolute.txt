@@ -1,0 +1,7 @@
+C:\Users\Pc\Documents\CodeVS\Algoritmos\problema5\problema5\bin\Debug\problema5.exe.config
+C:\Users\Pc\Documents\CodeVS\Algoritmos\problema5\problema5\bin\Debug\problema5.exe
+C:\Users\Pc\Documents\CodeVS\Algoritmos\problema5\problema5\bin\Debug\problema5.pdb
+C:\Users\Pc\Documents\CodeVS\Algoritmos\problema5\problema5\obj\Debug\problema5.csproj.AssemblyReference.cache
+C:\Users\Pc\Documents\CodeVS\Algoritmos\problema5\problema5\obj\Debug\problema5.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\CodeVS\Algoritmos\problema5\problema5\obj\Debug\problema5.exe
+C:\Users\Pc\Documents\CodeVS\Algoritmos\problema5\problema5\obj\Debug\problema5.pdb

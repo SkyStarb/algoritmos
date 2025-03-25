@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pc\\Documents\\CodeVS\\Algoritmos\\problema4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39204757-83D3-4C8B-861A-8838A9751968}|problema4\\problema4.csproj|c:\\users\\pc\\documents\\codevs\\algoritmos\\problema4\\problema4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39204757-83D3-4C8B-861A-8838A9751968}|problema4\\problema4.csproj|solutionrelative:problema4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\CodeVS\\Algoritmos\\problema4\\problema4\\Program.cs",
+              "RelativeDocumentMoniker": "problema4\\Program.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\CodeVS\\Algoritmos\\problema4\\problema4\\Program.cs",
+              "RelativeToolTip": "problema4\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T00:01:44.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
