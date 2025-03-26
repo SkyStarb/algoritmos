@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pc\\Documents\\CodeVS\\Algoritmos\\problema9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9B6DCA-2B67-4147-9D88-D58E826A7E07}|problema9\\problema9.csproj|c:\\users\\pc\\documents\\codevs\\algoritmos\\problema9\\problema9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE9B6DCA-2B67-4147-9D88-D58E826A7E07}|problema9\\problema9.csproj|solutionrelative:problema9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\CodeVS\\Algoritmos\\problema9\\problema9\\Program.cs",
+              "RelativeDocumentMoniker": "problema9\\Program.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\CodeVS\\Algoritmos\\problema9\\problema9\\Program.cs",
+              "RelativeToolTip": "problema9\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:03:57.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

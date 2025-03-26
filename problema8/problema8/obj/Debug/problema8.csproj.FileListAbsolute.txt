@@ -1,0 +1,7 @@
+C:\Users\Pc\Documents\CodeVS\Algoritmos\problema8\problema8\bin\Debug\problema8.exe.config
+C:\Users\Pc\Documents\CodeVS\Algoritmos\problema8\problema8\bin\Debug\problema8.exe
+C:\Users\Pc\Documents\CodeVS\Algoritmos\problema8\problema8\bin\Debug\problema8.pdb
+C:\Users\Pc\Documents\CodeVS\Algoritmos\problema8\problema8\obj\Debug\problema8.csproj.AssemblyReference.cache
+C:\Users\Pc\Documents\CodeVS\Algoritmos\problema8\problema8\obj\Debug\problema8.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\CodeVS\Algoritmos\problema8\problema8\obj\Debug\problema8.exe
+C:\Users\Pc\Documents\CodeVS\Algoritmos\problema8\problema8\obj\Debug\problema8.pdb
